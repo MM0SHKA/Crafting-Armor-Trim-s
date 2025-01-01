@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#DC",
+        "#D#",
+        "CD#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "C": {
+            "item": "minecraft:coarse_dirt"
+        }
+    },
+    "result": {
+        "item": "minecraft:host_armor_trim_smithing_template",
+        "count": 1
+    }
+}

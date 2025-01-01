@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#DS",
+        "#D#",
+        "SD#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "S": {
+            "item": "minecraft:sand"
+        }
+    },
+    "result": {
+        "item": "minecraft:coast_armor_trim_smithing_template",
+        "count": 1
+    }
+}

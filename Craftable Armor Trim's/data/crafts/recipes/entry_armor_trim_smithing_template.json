@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "LDL",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "L": {
+            "item": "minecraft:light_gray_wool"
+        }
+    },
+    "result": {
+        "item": "minecraft:sentry_armor_trim_smithing_template",
+        "count": 1
+    }
+}

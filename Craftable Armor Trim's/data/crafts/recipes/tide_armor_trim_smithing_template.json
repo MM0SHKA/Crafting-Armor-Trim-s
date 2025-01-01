@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "PDP",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:prismarine"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "P": {
+            "item": "minecraft:prismarine_crystals"
+        }
+    },
+    "result": {
+        "item": "minecraft:tide_armor_trim_smithing_template",
+        "count": 1
+    }
+}
